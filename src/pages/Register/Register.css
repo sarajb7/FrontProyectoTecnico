@@ -1,0 +1,40 @@
+.register-form-div{
+    background-image:url('../../assets/best-gaming-background-d36rt32b2426dgqr.jpg');
+    height: 100%;
+    width: 100%;
+}
+.form-register{
+    height: 60vh;
+    width: 35vw;
+}
+.button-register{
+    width: 50%;
+    height: 3rem;
+    background-color: transparent;
+    color: white;
+    border-color:  rgb(212, 44, 201);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+}
+.home-button-div{
+    height: 12vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.link-home{
+    height: 100%;
+    width: 4vw;
+    border: none;
+}
+.button-home{
+    height: 100%;
+    width: 100%;
+    background-color: transparent;
+    border: none;
+}
+.home-icon{
+    height: 100%;
+    width: 100%;
+    color: white;
+}

@@ -1,0 +1,11 @@
+*{margin: 0;
+padding: 0}
+
+.main-div-home{
+    background-image:url('../../assets/best-gaming-background-d36rt32b2426dgqr.jpg');
+    width: 100%;
+    min-height: 100%;
+    
+}
+.games-gallery{
+    min-height: 74vh}
